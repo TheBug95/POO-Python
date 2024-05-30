@@ -49,7 +49,7 @@ estudiante = Estudiante("Miguel", 29, "Masculino", "Programación")
 print(estudiante.hacer_actividad())
 print(estudiante.presentarse())
 
-estudiante = Trabajador("Lisuan", 29, "Femenino", "Programación")
+trabajador = Trabajador("Lisuan", 29, "Femenino", "Programación")
 
-print(estudiante.hacer_actividad())
-print(estudiante.presentarse())
+print(trabajador.hacer_actividad())
+print(trabajador.presentarse())
